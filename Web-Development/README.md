@@ -1,11 +1,11 @@
 # CSOC Resources
 
 - Csoc is two month long programming sprint organised by [COPS IIT-BHU](https://www.copsiitbhu.co.in/), the following resource is compiled and provided by [SDG](https://sdg.copsiitbhu.co.in/)
--https://sdg.copsiitbhu.co.in/blog/csoc21-frontend/
--https://sdg.copsiitbhu.co.in/blog/csoc21-frontend-week3-react/
--https://sdg.copsiitbhu.co.in/blog/csoc21-frontend-week3-VueJS/
--https://sdg.copsiitbhu.co.in/blog/express/
--https://sdg.copsiitbhu.co.in/blog/django/
+- https://sdg.copsiitbhu.co.in/blog/csoc21-frontend/
+- https://sdg.copsiitbhu.co.in/blog/csoc21-frontend-week3-react/
+- https://sdg.copsiitbhu.co.in/blog/csoc21-frontend-week3-VueJS/
+- https://sdg.copsiitbhu.co.in/blog/express/
+- https://sdg.copsiitbhu.co.in/blog/django/
 
 # Front end Resources
 
