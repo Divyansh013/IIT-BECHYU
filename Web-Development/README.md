@@ -14,4 +14,8 @@
 Links: -[HTML and CSS](https://frontendmasters.com/courses/intermediate-html-css/)
        -[INTRO TO REACT](https://frontendmasters.com/courses/complete-react-v7/)
        -[VUE](https://frontendmasters.com/courses/vue-3/)
-       
+
+# Back end Resources
+
+- Node.js official [doc](https://nodejs.dev/en/learn/)
+- MongoDB official [doc](https://www.mongodb.com/docs/)
